@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: user-loan-info
+
+server:
+  port: 8082

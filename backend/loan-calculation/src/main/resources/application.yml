@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: loan-calculation
+
+server:
+  port: 8083
